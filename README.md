@@ -10,7 +10,7 @@ This repository contains the code used in the paper titled **"Adaptive Projected
     ├── approximate_orthogonality/     # Simulation for Approximate Orthogonality section
     ├── cleary_data_mean_comparison/   # Perturb-seq data analysis [1]
     ├── code_paper/                    # Core functions and utilities
-    ├── jinhong_deviance/              # Application to a Lupus study [2]
+    ├── lupus_study/                   # Application to a Lupus study [2]
     ├── main_simulation/               # Type-I error and power assessment
     └── try_Cleary_data/               # Preprocessed data for Perturb-seq analysis [1]
 ```
